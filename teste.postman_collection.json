@@ -1,0 +1,41 @@
+{
+	"info": {
+		"_postman_id": "e85a32d1-fbae-41df-bb60-1eb84c9c9f51",
+		"name": "teste",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:51488/api/words/wordinword",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"wordone\":\"amor\",\n\t\"wordtwo\":\"amorosa\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:51488/api/words/wordinword",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "51488",
+					"path": [
+						"api",
+						"words",
+						"wordinword"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

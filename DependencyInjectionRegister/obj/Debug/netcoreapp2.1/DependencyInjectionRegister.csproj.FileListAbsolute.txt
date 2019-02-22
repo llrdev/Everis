@@ -1,0 +1,5 @@
+C:\Users\leandro.ramos.ext\source\repos\Teste\DependencyInjectionRegister\bin\Debug\netcoreapp2.1\DependencyInjectionRegister.deps.json
+C:\Users\leandro.ramos.ext\source\repos\Teste\DependencyInjectionRegister\bin\Debug\netcoreapp2.1\DependencyInjectionRegister.dll
+C:\Users\leandro.ramos.ext\source\repos\Teste\DependencyInjectionRegister\obj\Debug\netcoreapp2.1\DependencyInjectionRegister.csproj.CoreCompileInputs.cache
+C:\Users\leandro.ramos.ext\source\repos\Teste\DependencyInjectionRegister\obj\Debug\netcoreapp2.1\DependencyInjectionRegister.AssemblyInfoInputs.cache
+C:\Users\leandro.ramos.ext\source\repos\Teste\DependencyInjectionRegister\obj\Debug\netcoreapp2.1\DependencyInjectionRegister.AssemblyInfo.cs

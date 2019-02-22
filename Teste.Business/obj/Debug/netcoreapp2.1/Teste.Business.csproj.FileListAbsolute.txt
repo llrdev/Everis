@@ -1,0 +1,9 @@
+C:\Users\Leandro\Documents\Projetos\LeandroTFS\Teste\Teste.Business\bin\Debug\netcoreapp2.1\Teste.Business.deps.json
+C:\Users\Leandro\Documents\Projetos\LeandroTFS\Teste\Teste.Business\bin\Debug\netcoreapp2.1\Teste.Business.dll
+C:\Users\Leandro\Documents\Projetos\LeandroTFS\Teste\Teste.Business\bin\Debug\netcoreapp2.1\Teste.Business.pdb
+C:\Users\Leandro\Documents\Projetos\LeandroTFS\Teste\Teste.Business\obj\Debug\netcoreapp2.1\Teste.Business.csprojAssemblyReference.cache
+C:\Users\Leandro\Documents\Projetos\LeandroTFS\Teste\Teste.Business\obj\Debug\netcoreapp2.1\Teste.Business.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Documents\Projetos\LeandroTFS\Teste\Teste.Business\obj\Debug\netcoreapp2.1\Teste.Business.AssemblyInfoInputs.cache
+C:\Users\Leandro\Documents\Projetos\LeandroTFS\Teste\Teste.Business\obj\Debug\netcoreapp2.1\Teste.Business.AssemblyInfo.cs
+C:\Users\Leandro\Documents\Projetos\LeandroTFS\Teste\Teste.Business\obj\Debug\netcoreapp2.1\Teste.Business.dll
+C:\Users\Leandro\Documents\Projetos\LeandroTFS\Teste\Teste.Business\obj\Debug\netcoreapp2.1\Teste.Business.pdb
